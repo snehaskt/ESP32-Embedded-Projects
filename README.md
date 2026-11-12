@@ -1,5 +1,7 @@
 # ESP32 Embedded Projects
 
+ESP32 development, ESP-IDF experiments, FreeRTOS, peripherals, Wi-Fi, IoT and embedded applications.
+
 A collection of embedded development projects using ESP32 and ESP-IDF.
 
 ## Development Environment
