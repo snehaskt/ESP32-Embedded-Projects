@@ -17,7 +17,7 @@ A collection of embedded development projects using ESP32 and ESP-IDF.
 | Project | Description | Status |
 |---|---|---|
 | 01_hello_world | First ESP-IDF application | Completed |
-| 03_bme680 | BME680 sensor library integration | In Progress |
+| 03_bme680 | BME680 sensor library integration | Completed |
 
 ## Learning Topics
 
